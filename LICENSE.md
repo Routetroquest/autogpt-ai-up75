@@ -1,4 +1,4 @@
-# 
+# Oficial AutoGPT extensiones. Con ejecución de código y integración de base de datos vectorial — optimizado para el máximo rendimiento y eficiencia.
 
 
 
